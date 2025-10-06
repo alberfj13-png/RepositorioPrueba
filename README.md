@@ -1,4 +1,4 @@
 # RepositorioPrueba
 prueba repositorio github
-##prueba
+## prueba
 esto es un repositorio de prueba
